@@ -1,0 +1,14 @@
+education_level	income_band	avg_risk_score	count
+Associate Degree	Low Income	9.671670419	23982
+Associate Degree	Middle Income	7.129353589	56017
+Bachelor's Degree	High Income	5.364062819	49030
+Bachelor's Degree	Low Income	9.125395786	36636
+Bachelor's Degree	Middle Income	6.585133073	38663
+High School	Low Income	9.23079588	43298
+High School	Middle Income	7.066614658	75629
+Master's Degree	High Income	5.449420816	46531
+Master's Degree	Low Income	9.188032686	22762
+Master's Degree	Middle Income	8.172513966	4475
+PhD	High Income	5.510316768	10323
+PhD	Low Income	9.198885794	5385
+PhD	Middle Income	8.230472517	1037

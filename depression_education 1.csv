@@ -1,0 +1,20 @@
+age_group	education_level	avg_risk_score	count 
+18Ð29	Associate Degree	7.115743197	13193
+18Ð29	Bachelor's Degree	5.965782391	23409
+18Ð29	High School	7.221855053	35406
+18Ð29	Master's Degree	5.742697139	6607
+30Ð44	Associate Degree	7.501732926	19620
+30Ð44	Bachelor's Degree	6.405913978	29760
+30Ð44	High School	7.589840113	24705
+30Ð44	Master's Degree	6.117785149	19595
+30Ð44	PhD	6.198507162	4957
+45Ð59	Associate Degree	7.806505295	19830
+45Ð59	Bachelor's Degree	6.725650981	29878
+45Ð59	High School	7.879025381	24625
+45Ð59	Master's Degree	6.607406658	19766
+45Ð59	PhD	6.522878536	4808
+60+	Associate Degree	8.606740752	27356
+60+	Bachelor's Degree	7.767961824	41282
+60+	High School	8.683308473	34191
+60+	Master's Degree	7.58471223	27800
+60+	PhD	7.573925501	6980
