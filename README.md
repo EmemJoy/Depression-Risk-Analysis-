@@ -31,6 +31,9 @@ answers instead of manually clicking through filters.
 
 https://clarity-chatbot.lovable.app
 
+## Case study
+[Read the full case study](Depression_Risk_Index_Case_Study.docx.pdf)
+
 ## Note on the raw dataset
 
 The full raw dataset (413,768 rows) isn't included here due to 
